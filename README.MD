@@ -1,0 +1,3 @@
+# ST-Pro-Cmake
+
+使用cmake来对stm32代码进行管理，从而能方便地在基于cmake进行代码管理，构建的IDE上进行stm32开发，如kdevelop，clion，qtcreator等。目前仅对stm32f429进行配适。同时没有使用ST的官方固件库，而是自行对cmsis进行封装以减小二进制文件的体积和执行效率。
