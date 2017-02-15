@@ -1,0 +1,2 @@
+/usr/bin/ar qc libos.a  CMakeFiles/os.dir/kernel.c.o CMakeFiles/os.dir/cpu.c.o CMakeFiles/os.dir/cpu_core_cm4.c.o
+/usr/bin/ranlib libos.a

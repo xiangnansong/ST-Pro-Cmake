@@ -1,0 +1,11 @@
+/home/song/Desktop/st429/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/song/Desktop/st429/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/song/Desktop/st429/cmake-build-debug/base/CMakeFiles/edit_cache.dir
+/home/song/Desktop/st429/cmake-build-debug/base/CMakeFiles/rebuild_cache.dir
+/home/song/Desktop/st429/cmake-build-debug/base/CMakeFiles/base.dir
+/home/song/Desktop/st429/cmake-build-debug/main/CMakeFiles/edit_cache.dir
+/home/song/Desktop/st429/cmake-build-debug/main/CMakeFiles/rebuild_cache.dir
+/home/song/Desktop/st429/cmake-build-debug/main/CMakeFiles/song.elf.dir
+/home/song/Desktop/st429/cmake-build-debug/song/CMakeFiles/edit_cache.dir
+/home/song/Desktop/st429/cmake-build-debug/song/CMakeFiles/rebuild_cache.dir
+/home/song/Desktop/st429/cmake-build-debug/song/CMakeFiles/song.dir

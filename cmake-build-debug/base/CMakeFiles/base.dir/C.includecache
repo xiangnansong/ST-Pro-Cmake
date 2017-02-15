@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/song/Desktop/st429/base/system_stm32f4xx.c
+stm32f4xx.h
+/home/song/Desktop/st429/base/stm32f4xx.h
+

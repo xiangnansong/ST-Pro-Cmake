@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="App"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\base\;CMake Files\main\;CMake Files\song\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/song/Desktop/st429/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/song/Desktop/st429/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/song/Desktop/st429/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/song/Desktop/st429/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/song/Desktop/st429/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/song/Desktop/st429/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/song/Desktop/st429/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/song/Desktop/st429/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/song/Desktop/st429/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/song/Desktop/st429/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/song/Desktop/st429/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/song/Desktop/st429/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/song/Desktop/st429/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/song/Desktop/st429/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/song/Desktop/st429/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="base">
+				<Option output="/home/song/Desktop/st429/cmake-build-debug/base/libbase.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/song/Desktop/st429/cmake-build-debug/base"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/song/Desktop/st429/base/../main"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/song/Desktop/st429/cmake-build-debug/base/Makefile&quot;  VERBOSE=1 base"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/song/Desktop/st429/cmake-build-debug/base/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/song/Desktop/st429/cmake-build-debug/base/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/song/Desktop/st429/cmake-build-debug/base/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="base/fast">
+				<Option output="/home/song/Desktop/st429/cmake-build-debug/base/libbase.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/song/Desktop/st429/cmake-build-debug/base"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/song/Desktop/st429/base/../main"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/song/Desktop/st429/cmake-build-debug/base/Makefile&quot;  VERBOSE=1 base/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/song/Desktop/st429/cmake-build-debug/base/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/song/Desktop/st429/cmake-build-debug/base/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/song/Desktop/st429/cmake-build-debug/base/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="song.elf">
+				<Option output="/home/song/Desktop/st429/cmake-build-debug/main/song.elf" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/song/Desktop/st429/cmake-build-debug/main"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/song/Desktop/st429/main/../base"/>
+					<Add directory="/home/song/Desktop/st429/main/../song"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/song/Desktop/st429/cmake-build-debug/main/Makefile&quot;  VERBOSE=1 song.elf"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/song/Desktop/st429/cmake-build-debug/main/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/song/Desktop/st429/cmake-build-debug/main/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/song/Desktop/st429/cmake-build-debug/main/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="song.elf/fast">
+				<Option output="/home/song/Desktop/st429/cmake-build-debug/main/song.elf" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/song/Desktop/st429/cmake-build-debug/main"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/song/Desktop/st429/main/../base"/>
+					<Add directory="/home/song/Desktop/st429/main/../song"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/song/Desktop/st429/cmake-build-debug/main/Makefile&quot;  VERBOSE=1 song.elf/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/song/Desktop/st429/cmake-build-debug/main/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/song/Desktop/st429/cmake-build-debug/main/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/song/Desktop/st429/cmake-build-debug/main/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="song">
+				<Option output="/home/song/Desktop/st429/cmake-build-debug/song/libsong.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/song/Desktop/st429/cmake-build-debug/song"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/song/Desktop/st429/song/../main"/>
+					<Add directory="/home/song/Desktop/st429/song/../base"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/song/Desktop/st429/cmake-build-debug/song/Makefile&quot;  VERBOSE=1 song"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/song/Desktop/st429/cmake-build-debug/song/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/song/Desktop/st429/cmake-build-debug/song/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/song/Desktop/st429/cmake-build-debug/song/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="song/fast">
+				<Option output="/home/song/Desktop/st429/cmake-build-debug/song/libsong.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/song/Desktop/st429/cmake-build-debug/song"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/song/Desktop/st429/song/../main"/>
+					<Add directory="/home/song/Desktop/st429/song/../base"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/song/Desktop/st429/cmake-build-debug/song/Makefile&quot;  VERBOSE=1 song/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/song/Desktop/st429/cmake-build-debug/song/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/song/Desktop/st429/cmake-build-debug/song/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/song/Desktop/st429/cmake-build-debug/song/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/song/Desktop/st429/base/startup_stm32f429xx.s">
+			<Option target="base"/>
+		</Unit>
+		<Unit filename="/home/song/Desktop/st429/base/system_stm32f4xx.c">
+			<Option target="base"/>
+		</Unit>
+		<Unit filename="/home/song/Desktop/st429/base/system_stm32f4xx.h">
+			<Option target="base"/>
+		</Unit>
+		<Unit filename="/home/song/Desktop/st429/main/main.c">
+			<Option target="song.elf"/>
+		</Unit>
+		<Unit filename="/home/song/Desktop/st429/main/main.h">
+			<Option target="song.elf"/>
+		</Unit>
+		<Unit filename="/home/song/Desktop/st429/main/stm32f4xx_it.c">
+			<Option target="song.elf"/>
+		</Unit>
+		<Unit filename="/home/song/Desktop/st429/main/stm32f4xx_it.h">
+			<Option target="song.elf"/>
+		</Unit>
+		<Unit filename="/home/song/Desktop/st429/main/syscalls.c">
+			<Option target="song.elf"/>
+		</Unit>
+		<Unit filename="/home/song/Desktop/st429/song/sys.c">
+			<Option target="song"/>
+		</Unit>
+		<Unit filename="/home/song/Desktop/st429/song/sys.h">
+			<Option target="song"/>
+		</Unit>
+		<Unit filename="/home/song/Desktop/st429/song/syscalls.c">
+			<Option target="song"/>
+		</Unit>
+		<Unit filename="/home/song/Desktop/st429/song/usart.c">
+			<Option target="song"/>
+		</Unit>
+		<Unit filename="/home/song/Desktop/st429/song/usart.h">
+			<Option target="song"/>
+		</Unit>
+		<Unit filename="/home/song/Desktop/st429/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/song/Desktop/st429/base/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\base\"/>
+		</Unit>
+		<Unit filename="/home/song/Desktop/st429/main/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\main\"/>
+		</Unit>
+		<Unit filename="/home/song/Desktop/st429/song/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\song\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

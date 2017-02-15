@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsong.a  CMakeFiles/song.dir/usart.c.o CMakeFiles/song.dir/syscalls.c.o CMakeFiles/song.dir/sys.c.o
+/usr/bin/ranlib libsong.a

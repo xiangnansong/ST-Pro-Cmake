@@ -1,0 +1,2 @@
+/usr/bin/ar qc libbase.a  CMakeFiles/base.dir/system_stm32f4xx.c.o CMakeFiles/base.dir/startup_stm32f429xx.s.o
+/usr/bin/ranlib libbase.a
